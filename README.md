@@ -26,7 +26,7 @@
 * [Digital Hollywood: "Multi-Screen Universe: TV, Tablets, Broadband, Smartphones and IPTV - Strategies for ConnectedTV Technology & Content" (2011)](http://prime.digitalhollywood.com/11NYC/NYC11-ThursOne.html)
 
 ### Presentations
-* [General Assembly: "Marketing and Selling to Large Enterprises" (2012)](GA Class - Marketing and Selling to Large Enteprises v2.pdf)
+* [General Assembly: "Marketing and Selling to Large Enterprises" (2012)](GA_Class-Marketing_and_Selling_to_Large_Enteprises.pdf)
 
 ### Press and Other Mentions
 * [NY Times: "Teaching Bronx Students the Language of Computers" (2016)](https://www.nytimes.com/2016/02/22/nyregion/teaching-bronx-students-the-language-of-computers.html?_r=0")
