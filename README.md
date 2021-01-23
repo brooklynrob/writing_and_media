@@ -35,7 +35,8 @@
 ### Open Source in Financial Services Related
 * [Business Insider: "The Code for Goldman Sachs' Internal Data Platform is Now Open for Anyone to Use" (2020)](https://www.businessinsider.com/code-for-goldmans-data-platform-legend-open-sharing-github-2020-10)
 * [Markets Media: "Goldman Sachs Open Sources Data Modeling Platform" (2020)](https://www.marketsmedia.com/goldman-sachs-open-sources-data-modeling-platform/)
-* [S&P Global Market Intelligence: "As 'big tech' dominates cloud use for banks, regulators may need to get tougher"](https://www.marketsmedia.com/goldman-sachs-open-sources-data-modeling-platform/)
+* [S&P Global Market Intelligence: "As 'big tech' dominates cloud use for banks, regulators may need to get tougher" (2020)](https://www.marketsmedia.com/goldman-sachs-open-sources-data-modeling-platform/)
+* [Traders Magazine: "Bringing It All Together: Application Interoperability for Traders" (2019)](https://www.tradersmagazine.com/departments/technology/bringing-it-all-together-application-interoperability-for-traders/)
 
 ### Computer Science in Schools Related
 * [NY Times: "Teaching Bronx Students the Language of Computers" (2016)](https://www.nytimes.com/2016/02/22/nyregion/teaching-bronx-students-the-language-of-computers.html?_r=0")
