@@ -22,10 +22,11 @@
 * [SWSW: "State of the Media Democracy" (2012)](http://schedule.sxsw.com/2012/events/event_IAP13956)
 * [Digital Hollywood: "Multi-Screen Universe: TV, Tablets, Broadband, Smartphones and IPTV - Strategies for ConnectedTV Technology & Content" (2011)](http://prime.digitalhollywood.com/11NYC/NYC11-ThursOne.html)
 
-## Presentations 
+## Presentations and Reports
+* [Heckscher Foundation: "Internet Connectivity in New York City Public Schools" (2018)](https://github.com/brooklynrob/writing_and_media/blob/master/Heckscher_Internet_Connectivity_NYC_Schools.pdf)
 * [General Assembly: "Marketing and Selling to Large Enterprises" (2012)](GA_Class-Marketing_and_Selling_to_Large_Enteprises.pdf)
 
-### Podcasts
+## Podcasts
 * [Wharton Fintech: FinTech Goes Open Source with Rob Underwood, Chief Development Officer of FINOS (2020)](https://medium.com/wharton-fintech/in-todays-episode-of-the-wharton-fintech-podcast-ryan-zauk-sits-down-with-rob-underwood-chief-e7c1f08bde82)
 * [CHAOSS Podcast: CHAOSS + FINOS: Lessons Learned with Rob Underwood (2020)](https://podcast.chaoss.community/20)
 * [MotiveLabs - The Future of Finance: Amber Baldet, Rob Underwood, Open Source and Blockchain in Fintech (2018)](https://soundcloud.com/motivelabs/041-amber-baldet-rob-underwood-open-source-blockchain-fintech)
