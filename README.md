@@ -1,5 +1,10 @@
 # Rob Underwood Writing and Media Appearances 
 
+## Podcasts
+* [Wharton Fintech: FinTech Goes Open Source with Rob Underwood, Chief Development Officer of FINOS (2020)](https://medium.com/wharton-fintech/in-todays-episode-of-the-wharton-fintech-podcast-ryan-zauk-sits-down-with-rob-underwood-chief-e7c1f08bde82)
+* [CHAOSS Podcast: CHAOSS + FINOS: Lessons Learned with Rob Underwood (2020)](https://podcast.chaoss.community/20)
+* [MotiveLabs - The Future of Finance: Amber Baldet, Rob Underwood, Open Source and Blockchain in Fintech (2018)](https://soundcloud.com/motivelabs/041-amber-baldet-rob-underwood-open-source-blockchain-fintech)
+
 ## Blog Posts
 * [TTM Dinners (2018)](https://www.robunderwood.com/2018/01/ttm-dinners/)
 * [The Fierce Urgency of Now (2016)](http://www.robunderwood.com/2016/09/21/the-fierce-urgency-of-now/)
@@ -26,11 +31,6 @@
 ## Presentations and Reports
 * [Heckscher Foundation: "Internet Connectivity in New York City Public Schools" (2018)](https://github.com/brooklynrob/writing_and_media/blob/master/Heckscher_Internet_Connectivity_NYC_Schools.pdf)
 * [General Assembly: "Marketing and Selling to Large Enterprises" (2012)](GA_Class-Marketing_and_Selling_to_Large_Enteprises.pdf)
-
-## Podcasts
-* [Wharton Fintech: FinTech Goes Open Source with Rob Underwood, Chief Development Officer of FINOS (2020)](https://medium.com/wharton-fintech/in-todays-episode-of-the-wharton-fintech-podcast-ryan-zauk-sits-down-with-rob-underwood-chief-e7c1f08bde82)
-* [CHAOSS Podcast: CHAOSS + FINOS: Lessons Learned with Rob Underwood (2020)](https://podcast.chaoss.community/20)
-* [MotiveLabs - The Future of Finance: Amber Baldet, Rob Underwood, Open Source and Blockchain in Fintech (2018)](https://soundcloud.com/motivelabs/041-amber-baldet-rob-underwood-open-source-blockchain-fintech)
 
 ## Open Source in Financial Services Related
 * [Business Insider: "The Code for Goldman Sachs' Internal Data Platform is Now Open for Anyone to Use" (2020)](https://www.businessinsider.com/code-for-goldmans-data-platform-legend-open-sharing-github-2020-10)
