@@ -42,6 +42,9 @@
 * [NY Times: "Teaching Bronx Students the Language of Computers" (2016)](https://www.nytimes.com/2016/02/22/nyregion/teaching-bronx-students-the-language-of-computers.html?_r=0")
 * [AVC: "Code Brooklyn" (2015)](http://avc.com/2015/11/code-brooklyn/)
 * [Office of the Brooklyn Borough President: "Launch of Code Brooklyn" (2015)](http://www.brooklyn-usa.org/bp-adams-launches-code-brooklyn-initiative-with-mission-of-bringing-coding-opportunitites-to-every-young-brooklynite-in-public-school/)
+* [One Brooklyn - Unveiling of School Technology Survey Report](https://www.youtube.com/watch?v=wUz17n4-3dM)
+* [One Brooklyn - Challenging Chicago to an Hour of Code Participation](https://www.youtube.com/watch?v=-0T1Qz4pp2Y)
+* [One Brooklyn - Launching "Code Brooklyn" in Public Schools PC](https://www.youtube.com/watch?v=HPFSzUWEOd8)
 
 ## NYTechReponds and Disaster Recovery Voluteering Related
 * [In Response to Sandy, Tech Community Steps Up (2012)](https://indypendent.org/2012/12/in-response-to-sandy-tech-community-steps-up/)
