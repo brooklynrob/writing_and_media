@@ -6,7 +6,15 @@
 * [MotiveLabs - The Future of Finance: Amber Baldet, Rob Underwood, Open Source and Blockchain in Fintech (2018)](https://soundcloud.com/motivelabs/041-amber-baldet-rob-underwood-open-source-blockchain-fintech)
 
 ## Blog Posts
+### On [Goldman Sachs Developer Blog](https://developer.gs.com/blog) Written by Rob, contributed and drafted by Rob, and/or with significant reference to Rob's work
+* [Supporting the Next Generation of Software Engineers (2022)](https://developer.gs.com/blog/posts/supporting-the-next-generation-of-software-engineers)
+* [Goldman Sachs' Open Source Program Office, One Year In (2022)](https://developer.gs.com/blog/posts/goldmansachs-ospo-one-year-in)
+* [The Evolution Of Digital Assets with Mathew McDermott, Global Head of Digital Assets, Goldman Sachs (2022)](https://developer.gs.com/blog/posts/evolution-of-digital-assets-with-mathew-mcdermott)
+* [Key Takeaways from the Open Source Software Security Summit II (2022)](https://developer.gs.com/blog/posts/key-takeaways-from-the-open-source-software-security-summit)
+* [Our Open Source Program Office and the TODO Group (2021)](https://developer.gs.com/blog/posts/our-open-source-program-office-and-todo-group)
+
 ### On robunderwood.com
+* [Thoughts Ahead of the Q1 2023 FINOS Board Meeting (2023)](https://www.robunderwood.com/2023/01/finos-board/)
 * [TTM Dinners (2018)](https://www.robunderwood.com/2018/01/ttm-dinners/)
 * [The Fierce Urgency of Now (2016)](http://www.robunderwood.com/2016/09/21/the-fierce-urgency-of-now/)
 * [Tear Down This Wall (with Code)! (2016)](http://blog.code.org/post/145366695753/tear-down-this-wall-with-code)
@@ -26,6 +34,10 @@
 * [Engage Your Customers by Delivering a Multi-Channel Brand Experience (2008)](us_consulting_so_multichannelbrand_110408.pdf)
 
 ## Public Speaking
+### With Goldman Sachs
+* [Goldman Sachs' Open Source Program Office - One Year In (2022)](https://www.youtube.com/watch?v=llhEXQgPvtM)
+
+### With Deloitte
 * [SWSW: "State of the Media Democracy" (2012)](http://schedule.sxsw.com/2012/events/event_IAP13956)
 * [Digital Hollywood: "Multi-Screen Universe: TV, Tablets, Broadband, Smartphones and IPTV - Strategies for ConnectedTV Technology & Content" (2011)](http://prime.digitalhollywood.com/11NYC/NYC11-ThursOne.html)
 
