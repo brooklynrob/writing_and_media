@@ -3,7 +3,7 @@
 ## Podcasts
 * [Wharton Fintech: FinTech Goes Open Source with Rob Underwood, Chief Development Officer of FINOS (2020)](https://medium.com/wharton-fintech/in-todays-episode-of-the-wharton-fintech-podcast-ryan-zauk-sits-down-with-rob-underwood-chief-e7c1f08bde82)
 * [CHAOSS Podcast: CHAOSS + FINOS: Lessons Learned with Rob Underwood (2020)](https://podcast.chaoss.community/20)
-* [MotiveLabs - The Future of Finance: Amber Baldet, Rob Underwood, Open Source and Blockchain in Fintech (2018)](https://soundcloud.com/motivelabs/041-amber-baldet-rob-underwood-open-source-blockchain-fintech)
+* MotiveLabs - The Future of Finance: Amber Baldet, Rob Underwood, Open Source and Blockchain in Fintech (2018)
 
 ## Blog Posts
 ### On [Goldman Sachs Developer Blog](https://developer.gs.com/blog) Written by Rob, contributed and drafted by Rob, and/or with significant reference to Rob's work
