@@ -38,8 +38,8 @@
 * [Goldman Sachs' Open Source Program Office - One Year In (2022)](https://www.youtube.com/watch?v=llhEXQgPvtM)
 
 ### With Deloitte
-* [SWSW: "State of the Media Democracy" (2012)](http://schedule.sxsw.com/2012/events/event_IAP13956)
-* [Digital Hollywood: "Multi-Screen Universe: TV, Tablets, Broadband, Smartphones and IPTV - Strategies for ConnectedTV Technology & Content" (2011)](http://prime.digitalhollywood.com/11NYC/NYC11-ThursOne.html)
+* SWSW: "State of the Media Democracy" (2012) 
+* Digital Hollywood: "Multi-Screen Universe: TV, Tablets, Broadband, Smartphones and IPTV - Strategies for ConnectedTV Technology & Content
 
 ## Presentations and Reports
 * [Heckscher Foundation: "Internet Connectivity in New York City Public Schools" (2018)](https://github.com/brooklynrob/writing_and_media/blob/master/Heckscher_Internet_Connectivity_NYC_Schools.pdf)
