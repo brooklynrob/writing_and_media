@@ -52,7 +52,7 @@
 * [Traders Magazine: "Bringing It All Together: Application Interoperability for Traders" (2019)](https://www.tradersmagazine.com/departments/technology/bringing-it-all-together-application-interoperability-for-traders/)
 
 ## Computer Science in Schools Related
-* [NY Times: "Teaching Bronx Students the Language of Computers" (2016)](https://www.nytimes.com/2016/02/22/nyregion/teaching-bronx-students-the-language-of-computers.html")
+* [NY Times: "Teaching Bronx Students the Language of Computers" (2016)](https://www.nytimes.com/2016/02/22/nyregion/teaching-bronx-students-the-language-of-computers.html)
 * [AVC: "Code Brooklyn" (2015)](http://avc.com/2015/11/code-brooklyn/)
 * [One Brooklyn - Unveiling of School Technology Survey Report](https://www.youtube.com/watch?v=wUz17n4-3dM)
 * [One Brooklyn - Challenging Chicago to an Hour of Code Participation](https://www.youtube.com/watch?v=-0T1Qz4pp2Y)
